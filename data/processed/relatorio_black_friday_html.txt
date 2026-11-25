@@ -1,0 +1,10 @@
+RELATÓRIO DE INTEGRAÇÃO BLACK FRIDAY
+
+Ofertas na base: 33
+Ofertas personalizadas: 33
+Abas personalizadas: 6
+Abas de UF: 2
+Abas de rede: 4
+Cards renderizados: 33
+Imagens localizadas durante a geração: 33
+HTML: /workspaces/calendario_mercapromo/site/calendario_mercapromo.html

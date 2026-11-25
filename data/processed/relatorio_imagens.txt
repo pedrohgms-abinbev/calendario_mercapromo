@@ -1,0 +1,123 @@
+RELATÓRIO DE IMAGENS — CALENDÁRIO MERCAPROMO
+HTML gerado: /workspaces/calendario_mercapromo/site/calendario_mercapromo.html
+Imagens incorporadas (arquivos únicos): 26
+Aliases/caminhos tentados: 27
+Aliases localizados: 27
+
+Pastas pesquisadas:
+- /workspaces/calendario_mercapromo/images/img
+- /workspaces/calendario_mercapromo/images
+
+Vínculo promoção → SKU abreviado → arquivo de imagem:
+- [CERVEJA] Antarctica Pilsen LT 269ml -> SKU 'AP 269' -> Nome IMG 'AP269' -> /workspaces/calendario_mercapromo/images/img/AP269.png
+- [CERVEJA] Corona Cero LT 350ml -> SKU 'COR 0 350' -> Nome IMG 'CORCERO350' -> /workspaces/calendario_mercapromo/images/img/CORCERO350.png
+- [CERVEJA] Michelob LN 330ml -> SKU 'MIC LN' -> Nome IMG 'MICLN' -> /workspaces/calendario_mercapromo/images/img/MICLN.png
+- [CERVEJA] Skol Pilsen LT 269ml -> SKU 'SK 269' -> Nome IMG 'SK269' -> /workspaces/calendario_mercapromo/images/img/SK269.png
+- [CERVEJA] Skol Pilsen LT 269ml - Multipack 15un -> SKU 'SK 269 MP' -> Nome IMG 'SK269MP' -> /workspaces/calendario_mercapromo/images/img/SK269MP.png
+- [CERVEJA] Spaten LN 330ml -> SKU 'SPT LN' -> Nome IMG 'SPTLN' -> /workspaces/calendario_mercapromo/images/img/SPTLN.png
+- [NAB] Guaraná Antarctica Regular e Zero LT 350ml -> SKU 'GCA LT350' -> Nome IMG 'GCA350' -> /workspaces/calendario_mercapromo/images/img/GCA350.png
+- [NAB] Guaraná Antarctica Regular e Zero 2L -> SKU 'GCA P2' -> Nome IMG 'GCAP2' -> /workspaces/calendario_mercapromo/images/img/GCAP2.png
+- [NAB] Pepsi Regular e Zero LT 350ml -> SKU 'PC SAB 350' -> Nome IMG 'PCSAB350' -> /workspaces/calendario_mercapromo/images/img/PCSAB350.png
+- [MATCH] BEATS - FF -> SKU 'BEATS - FF' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png | secundária: /workspaces/calendario_mercapromo/images/img/FF350.png
+- [MATCH] Beats Sabores LN 269ml -> SKU 'BEATS LN' -> Nome IMG 'BEATSLN' -> /workspaces/calendario_mercapromo/images/img/BEATSLN.png
+- [MATCH] Beats Sabores LT 269ml -> SKU 'BEATS LT' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png
+- [CERVEJA] Antarctica Pilsen LT 269ml -> SKU 'AP 269' -> Nome IMG 'AP269' -> /workspaces/calendario_mercapromo/images/img/AP269.png
+- [CERVEJA] Brahma Chopp LT 269ml -> SKU 'BC 269' -> Nome IMG 'BC269' -> /workspaces/calendario_mercapromo/images/img/BC269.png
+- [CERVEJA] Brahma Chopp LT 269ml - Multipack 15un -> SKU 'BC 269 MP' -> Nome IMG 'BC269MP' -> /workspaces/calendario_mercapromo/images/img/BC269MP.png
+- [CERVEJA] Budweiser LT 269ml -> SKU 'BUD 269' -> Nome IMG 'BUD269' -> /workspaces/calendario_mercapromo/images/img/BUD269.png
+- [CERVEJA] Corona Cero LN 330ml -> SKU 'COR 0 LN' -> Nome IMG 'CORCEROLN' -> /workspaces/calendario_mercapromo/images/img/CORCEROLN.png
+- [CERVEJA] Michelob LT 350ml -> SKU 'MIC 350' -> Nome IMG 'MIC350' -> /workspaces/calendario_mercapromo/images/img/MIC350.png
+- [CERVEJA] Stella Artois LN 330ml -> SKU 'STE LN' -> Nome IMG 'STELN' -> /workspaces/calendario_mercapromo/images/img/STELN.png
+- [NAB] Gatorade Sabores 500ml -> SKU 'GATORADE' -> Nome IMG 'GATORADE' -> /workspaces/calendario_mercapromo/images/img/GATORADE.png
+- [NAB] H2Oh Limão e Limoneto 500ml -> SKU 'H2OH P500' -> Nome IMG 'H2OHP500' -> /workspaces/calendario_mercapromo/images/img/H2OHP500.png
+- [NAB] Pepsi Regular e Zero 2L -> SKU 'PC P2' -> Nome IMG 'PCP2' -> /workspaces/calendario_mercapromo/images/img/PCP2.png
+- [MATCH] Beats Sabores LN 269ml -> SKU 'BEATS LN' -> Nome IMG 'BEATSLN' -> /workspaces/calendario_mercapromo/images/img/BEATSLN.png
+- [MATCH] Beats Sabores LT 269ml -> SKU 'BEATS LT' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png
+- [MATCH] Flying Fish LT 350ml -> SKU 'FF 350' -> Nome IMG 'FF350' -> /workspaces/calendario_mercapromo/images/img/FF350.png
+- [MATCH] Flying Fish LN 330ml -> SKU 'FF LN' -> Nome IMG 'FFLN' -> /workspaces/calendario_mercapromo/images/img/FFLN.png
+- [PERSONALIZADO] Antarctica Pilsen LT 269ml -> SKU 'AP 269' -> Nome IMG 'AP269' -> /workspaces/calendario_mercapromo/images/img/AP269.png
+- [PERSONALIZADO] Corona Cero LT 350ml -> SKU 'COR 0 350' -> Nome IMG 'CORCERO350' -> /workspaces/calendario_mercapromo/images/img/CORCERO350.png
+- [PERSONALIZADO] Michelob LN 330ml -> SKU 'MIC LN' -> Nome IMG 'MICLN' -> /workspaces/calendario_mercapromo/images/img/MICLN.png
+- [PERSONALIZADO] Original LT 269ml -> SKU 'ORI 269' -> Nome IMG 'ORI269' -> /workspaces/calendario_mercapromo/images/img/ORI269.png
+- [PERSONALIZADO] Original LT 269ml - Multipack 15un -> SKU 'ORI 269 MP' -> Nome IMG 'ORI269MP' -> /workspaces/calendario_mercapromo/images/img/ORI269MP.png
+- [PERSONALIZADO] Skol Pilsen LT 269ml - Multipack 15un -> SKU 'SK 269 MP' -> Nome IMG 'SK269MP' -> /workspaces/calendario_mercapromo/images/img/SK269MP.png
+- [PERSONALIZADO] Spaten LN 330ml -> SKU 'SPT LN' -> Nome IMG 'SPTLN' -> /workspaces/calendario_mercapromo/images/img/SPTLN.png
+- [PERSONALIZADO] Guaraná Antarctica Regular e Zero 269ml -> SKU 'GCA LT269' -> Nome IMG 'GCA269' -> /workspaces/calendario_mercapromo/images/img/GCA269.png
+- [PERSONALIZADO] Guaraná Antarctica Regular e Zero LT 350ml -> SKU 'GCA LT350' -> Nome IMG 'GCA350' -> /workspaces/calendario_mercapromo/images/img/GCA350.png
+- [PERSONALIZADO] Guaraná Antarctica Regular e Zero 2L -> SKU 'GCA P2' -> Nome IMG 'GCAP2' -> /workspaces/calendario_mercapromo/images/img/GCAP2.png
+- [PERSONALIZADO] Pepsi Regular e Zero LT 350ml -> SKU 'PC SAB 350' -> Nome IMG 'PCSAB350' -> /workspaces/calendario_mercapromo/images/img/PCSAB350.png
+- [PERSONALIZADO] BEATS - FF -> SKU 'BEATS - FF' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png | secundária: /workspaces/calendario_mercapromo/images/img/FF350.png
+- [PERSONALIZADO] Beats Sabores LN 269ml -> SKU 'BEATS LN' -> Nome IMG 'BEATSLN' -> /workspaces/calendario_mercapromo/images/img/BEATSLN.png
+- [PERSONALIZADO] Beats Sabores LT 269ml -> SKU 'BEATS LT' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png
+- [PERSONALIZADO] Brahma Chopp LT 269ml -> SKU 'BC 269' -> Nome IMG 'BC269' -> /workspaces/calendario_mercapromo/images/img/BC269.png
+- [PERSONALIZADO] Brahma Chopp LT 269ml - Multipack 15un -> SKU 'BC 269 MP' -> Nome IMG 'BC269MP' -> /workspaces/calendario_mercapromo/images/img/BC269MP.png
+- [PERSONALIZADO] Budweiser LT 269ml -> SKU 'BUD 269' -> Nome IMG 'BUD269' -> /workspaces/calendario_mercapromo/images/img/BUD269.png
+- [PERSONALIZADO] Corona Cero LN 330ml -> SKU 'COR 0 LN' -> Nome IMG 'CORCEROLN' -> /workspaces/calendario_mercapromo/images/img/CORCEROLN.png
+- [PERSONALIZADO] Michelob LT 350ml -> SKU 'MIC 350' -> Nome IMG 'MIC350' -> /workspaces/calendario_mercapromo/images/img/MIC350.png
+- [PERSONALIZADO] Stella Artois LN 330ml -> SKU 'STE LN' -> Nome IMG 'STELN' -> /workspaces/calendario_mercapromo/images/img/STELN.png
+- [PERSONALIZADO] Gatorade Sabores 500ml -> SKU 'GATORADE' -> Nome IMG 'GATORADE' -> /workspaces/calendario_mercapromo/images/img/GATORADE.png
+- [PERSONALIZADO] H2Oh Limão e Limoneto 500ml -> SKU 'H2OH P500' -> Nome IMG 'H2OHP500' -> /workspaces/calendario_mercapromo/images/img/H2OHP500.png
+- [PERSONALIZADO] Pepsi Regular e Zero 2L -> SKU 'PC P2' -> Nome IMG 'PCP2' -> /workspaces/calendario_mercapromo/images/img/PCP2.png
+- [PERSONALIZADO] Beats Sabores LN 269ml -> SKU 'BEATS LN' -> Nome IMG 'BEATSLN' -> /workspaces/calendario_mercapromo/images/img/BEATSLN.png
+- [PERSONALIZADO] Beats Sabores LT 269ml -> SKU 'BEATS LT' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png
+- [PERSONALIZADO] Flying Fish LT 350ml -> SKU 'FF 350' -> Nome IMG 'FF350' -> /workspaces/calendario_mercapromo/images/img/FF350.png
+- [PERSONALIZADO] Flying Fish LN 330ml -> SKU 'FF LN' -> Nome IMG 'FFLN' -> /workspaces/calendario_mercapromo/images/img/FFLN.png
+- [PERSONALIZADO] Antarctica Pilsen LT 269ml -> SKU 'AP 269' -> Nome IMG 'AP269' -> /workspaces/calendario_mercapromo/images/img/AP269.png
+- [PERSONALIZADO] Corona Cero LT 350ml -> SKU 'COR 0 350' -> Nome IMG 'CORCERO350' -> /workspaces/calendario_mercapromo/images/img/CORCERO350.png
+- [PERSONALIZADO] Michelob LN 330ml -> SKU 'MIC LN' -> Nome IMG 'MICLN' -> /workspaces/calendario_mercapromo/images/img/MICLN.png
+- [PERSONALIZADO] Original LT 269ml -> SKU 'ORI 269' -> Nome IMG 'ORI269' -> /workspaces/calendario_mercapromo/images/img/ORI269.png
+- [PERSONALIZADO] Skol Pilsen LT 269ml -> SKU 'SK 269' -> Nome IMG 'SK269' -> /workspaces/calendario_mercapromo/images/img/SK269.png
+- [PERSONALIZADO] Spaten LN 330ml -> SKU 'SPT LN' -> Nome IMG 'SPTLN' -> /workspaces/calendario_mercapromo/images/img/SPTLN.png
+- [PERSONALIZADO] Guaraná Antarctica Regular e Zero LT 350ml -> SKU 'GCA LT350' -> Nome IMG 'GCA350' -> /workspaces/calendario_mercapromo/images/img/GCA350.png
+- [PERSONALIZADO] Guaraná Antarctica Regular e Zero 2L -> SKU 'GCA P2' -> Nome IMG 'GCAP2' -> /workspaces/calendario_mercapromo/images/img/GCAP2.png
+- [PERSONALIZADO] Pepsi Regular e Zero LT 350ml -> SKU 'PC SAB 350' -> Nome IMG 'PCSAB350' -> /workspaces/calendario_mercapromo/images/img/PCSAB350.png
+- [PERSONALIZADO] BEATS - FF -> SKU 'BEATS - FF' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png | secundária: /workspaces/calendario_mercapromo/images/img/FF350.png
+- [PERSONALIZADO] Beats Sabores LN 269ml -> SKU 'BEATS LN' -> Nome IMG 'BEATSLN' -> /workspaces/calendario_mercapromo/images/img/BEATSLN.png
+- [PERSONALIZADO] Beats Sabores LT 269ml -> SKU 'BEATS LT' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png
+- [PERSONALIZADO] Brahma Chopp LT 269ml -> SKU 'BC 269' -> Nome IMG 'BC269' -> /workspaces/calendario_mercapromo/images/img/BC269.png
+- [PERSONALIZADO] Budweiser LT 269ml -> SKU 'BUD 269' -> Nome IMG 'BUD269' -> /workspaces/calendario_mercapromo/images/img/BUD269.png
+- [PERSONALIZADO] Corona Cero LN 330ml -> SKU 'COR 0 LN' -> Nome IMG 'CORCEROLN' -> /workspaces/calendario_mercapromo/images/img/CORCEROLN.png
+- [PERSONALIZADO] Michelob LT 350ml -> SKU 'MIC 350' -> Nome IMG 'MIC350' -> /workspaces/calendario_mercapromo/images/img/MIC350.png
+- [PERSONALIZADO] Stella Artois LN 330ml -> SKU 'STE LN' -> Nome IMG 'STELN' -> /workspaces/calendario_mercapromo/images/img/STELN.png
+- [PERSONALIZADO] Gatorade Sabores 500ml -> SKU 'GATORADE' -> Nome IMG 'GATORADE' -> /workspaces/calendario_mercapromo/images/img/GATORADE.png
+- [PERSONALIZADO] H2Oh Limão e Limoneto 500ml -> SKU 'H2OH P500' -> Nome IMG 'H2OHP500' -> /workspaces/calendario_mercapromo/images/img/H2OHP500.png
+- [PERSONALIZADO] Pepsi Regular e Zero 2L -> SKU 'PC P2' -> Nome IMG 'PCP2' -> /workspaces/calendario_mercapromo/images/img/PCP2.png
+- [PERSONALIZADO] Beats Sabores LN 269ml -> SKU 'BEATS LN' -> Nome IMG 'BEATSLN' -> /workspaces/calendario_mercapromo/images/img/BEATSLN.png
+- [PERSONALIZADO] Beats Sabores LT 269ml -> SKU 'BEATS LT' -> Nome IMG 'BEATSLT' -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png
+- [PERSONALIZADO] Flying Fish LT 350ml -> SKU 'FF 350' -> Nome IMG 'FF350' -> /workspaces/calendario_mercapromo/images/img/FF350.png
+- [PERSONALIZADO] Flying Fish LN 330ml -> SKU 'FF LN' -> Nome IMG 'FFLN' -> /workspaces/calendario_mercapromo/images/img/FFLN.png
+
+Aliases localizados e arquivo físico:
+- /workspaces/calendario_mercapromo/images/logo.png -> /workspaces/calendario_mercapromo/images/logo.png
+- AP269.png -> /workspaces/calendario_mercapromo/images/img/AP269.png
+- BC269.png -> /workspaces/calendario_mercapromo/images/img/BC269.png
+- BC269MP.png -> /workspaces/calendario_mercapromo/images/img/BC269MP.png
+- BEATSLN.png -> /workspaces/calendario_mercapromo/images/img/BEATSLN.png
+- BEATSLT.png -> /workspaces/calendario_mercapromo/images/img/BEATSLT.png
+- BUD269.png -> /workspaces/calendario_mercapromo/images/img/BUD269.png
+- CORCERO350.png -> /workspaces/calendario_mercapromo/images/img/CORCERO350.png
+- CORCEROLN.png -> /workspaces/calendario_mercapromo/images/img/CORCEROLN.png
+- FF350.png -> /workspaces/calendario_mercapromo/images/img/FF350.png
+- FFLN.png -> /workspaces/calendario_mercapromo/images/img/FFLN.png
+- GATORADE.png -> /workspaces/calendario_mercapromo/images/img/GATORADE.png
+- GCA269.png -> /workspaces/calendario_mercapromo/images/img/GCA269.png
+- GCA350.png -> /workspaces/calendario_mercapromo/images/img/GCA350.png
+- GCAP2.png -> /workspaces/calendario_mercapromo/images/img/GCAP2.png
+- H2OHP500.png -> /workspaces/calendario_mercapromo/images/img/H2OHP500.png
+- logo.png -> /workspaces/calendario_mercapromo/images/logo.png
+- MIC350.png -> /workspaces/calendario_mercapromo/images/img/MIC350.png
+- MICLN.png -> /workspaces/calendario_mercapromo/images/img/MICLN.png
+- ORI269.png -> /workspaces/calendario_mercapromo/images/img/ORI269.png
+- ORI269MP.png -> /workspaces/calendario_mercapromo/images/img/ORI269MP.png
+- PCP2.png -> /workspaces/calendario_mercapromo/images/img/PCP2.png
+- PCSAB350.png -> /workspaces/calendario_mercapromo/images/img/PCSAB350.png
+- SK269.png -> /workspaces/calendario_mercapromo/images/img/SK269.png
+- SK269MP.png -> /workspaces/calendario_mercapromo/images/img/SK269MP.png
+- SPTLN.png -> /workspaces/calendario_mercapromo/images/img/SPTLN.png
+- STELN.png -> /workspaces/calendario_mercapromo/images/img/STELN.png
+
+Cards sem imagem localizada:
+- Nenhum
+
+Aliases/caminhos alternativos sem correspondência exata (podem ser tentativas de fallback):
+- Nenhum

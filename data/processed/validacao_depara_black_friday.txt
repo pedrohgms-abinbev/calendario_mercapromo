@@ -1,0 +1,112 @@
+================================================================================
+VALIDAÇÃO DE/PARA - BLACK FRIDAY
+================================================================================
+
+Total de ofertas: 33
+Produtos distintos: 13
+
+RESUMO
+Correspondências exatas: 1
+Ofertas com correspondência exata: 3
+Produtos com imagem localizada: 1
+Precisam de revisão: 12
+Duplicados no De/Para: 0
+Sem correspondência: 0
+
+--------------------------------------------------------------------------------
+PRODUTO: Corona Cero LN 330ml
+QUANTIDADE DE OFERTAS: 3
+STATUS: ENCONTRADO
+SKU: COR 0 LN
+PROMAX: 27866
+NOME IMG: CORCEROLN
+CAMINHO: CORCEROLN.png
+IMAGEM LOCALIZADA: SIM
+
+--------------------------------------------------------------------------------
+PRODUTO: Corona LN 330ml
+QUANTIDADE DE OFERTAS: 3
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - CORONA EXTRA N LONG NECK 330ML CX C/24 NPAL
+
+--------------------------------------------------------------------------------
+PRODUTO: Stella Pure Gold LN 330ml
+QUANTIDADE DE OFERTAS: 5
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - STELLA ARTOIS PURE GOLD LT SLEEK 350ML C 8 CX CARTAO 
+
+--------------------------------------------------------------------------------
+PRODUTO: Michelob LT 269ml
+QUANTIDADE DE OFERTAS: 2
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - MICHELOB ULTRA N LT 269ML CX CARTAO C/8 NPAL 
+ 
+
+--------------------------------------------------------------------------------
+PRODUTO: Original LT 269ml - Multipack 15un
+QUANTIDADE DE OFERTAS: 1
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - ORIGINAL LT 269ML SH C 15 MULTPACK 
+
+
+--------------------------------------------------------------------------------
+PRODUTO: Skol Pilsen LT 269ml - Multipack 15un
+QUANTIDADE DE OFERTAS: 1
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - SKOL LT 269ML SH C/15 MULTPACK 15 
+
+
+--------------------------------------------------------------------------------
+PRODUTO: Michelob LN 330ml
+QUANTIDADE DE OFERTAS: 2
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - MICHELOB ULTRA N LONG NECK 330ML SIX-PACK SHRINK C/4
+
+--------------------------------------------------------------------------------
+PRODUTO: Original LT 269ml
+QUANTIDADE DE OFERTAS: 3
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - ORIGINAL LT 269ML SH C15 NPAL 
+
+--------------------------------------------------------------------------------
+PRODUTO: Skol Pilsen LT 269ml
+QUANTIDADE DE OFERTAS: 1
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - SKOL LT 269ML SH C15 NPAL 
+
+--------------------------------------------------------------------------------
+PRODUTO: Brahma Chopp LT 269ml
+QUANTIDADE DE OFERTAS: 4
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - BRAHMA CHOPP LT 269ML SH C15 NPAL 
+
+--------------------------------------------------------------------------------
+PRODUTO: Michelob LT 350ml
+QUANTIDADE DE OFERTAS: 3
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - MICHELOB ULTRA N LT SLEEK 350ML C 8 CX CARTAO 
+
+--------------------------------------------------------------------------------
+PRODUTO: Stella Pure Gold LT 350ml
+QUANTIDADE DE OFERTAS: 1
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - STELLA ARTOIS PURE GOLD LT SLEEK 350ML C 8 CX CARTAO 
+
+
+--------------------------------------------------------------------------------
+PRODUTO: Antarctica Pilsen LT 269ml
+QUANTIDADE DE OFERTAS: 4
+STATUS: REVISAR_SUGESTAO
+SUGESTÕES PARA REVISÃO:
+  - ANTARCTICA PILSEN LT 269ML SH TRANSP C/15 NPAL 

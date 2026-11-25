@@ -1,0 +1,464 @@
+[
+  {
+    "DIVISAO": "MT",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Corona Cero LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MT",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Corona LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MT",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Stella Pure Gold LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MT",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Michelob LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 8,
+      "pague": 6,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MT",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Original LT 269ml - Multipack 15un",
+    "MECANICA": "Desconto %",
+    "CONFIGURACAO": {
+      "tipo": "desconto",
+      "desconto_percentual": 15.0,
+      "min_un_ativacao": 1,
+      "max_por_cpf": 3,
+      "unidade_limite": "unidades"
+    }
+  },
+  {
+    "DIVISAO": "MT",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Skol Pilsen LT 269ml - Multipack 15un",
+    "MECANICA": "Desconto %",
+    "CONFIGURACAO": {
+      "tipo": "desconto",
+      "desconto_percentual": 15.0,
+      "min_un_ativacao": 1,
+      "max_por_cpf": 3,
+      "unidade_limite": "unidades"
+    }
+  },
+  {
+    "DIVISAO": "MS",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Corona Cero LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MS",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Corona LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MS",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Stella Pure Gold LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MS",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Michelob LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 8,
+      "pague": 6,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MS",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Michelob LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MS",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Original LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "MS",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Skol Pilsen LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 3,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Supercei",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Brahma Chopp LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Supercei",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Michelob LT 350ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 8,
+      "pague": 6,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Supercei",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Stella Pure Gold LT 350ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 8,
+      "pague": 5,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Supercei",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Antarctica Pilsen LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Comper DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Antarctica Pilsen LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Comper DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Brahma Chopp LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Comper DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Michelob LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Comper DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Stella Pure Gold LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Comper DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Michelob LT 350ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 8,
+      "pague": 6,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Fort DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Corona Cero LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Fort DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Corona LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Fort DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Antarctica Pilsen LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Fort DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Brahma Chopp LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Fort DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Stella Pure Gold LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Fort DF/GO",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Original LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Villefort",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Antarctica Pilsen LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Villefort",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Brahma Chopp LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Villefort",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Stella Pure Gold LN 330ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 6,
+      "pague": 4,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Villefort",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Original LT 269ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 15,
+      "pague": 12,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  },
+  {
+    "DIVISAO": "Villefort",
+    "INICIO": "23/11/2026",
+    "FIM": "29/11/2026",
+    "PRODUTO": "Michelob LT 350ml",
+    "MECANICA": "Leve e Pague",
+    "CONFIGURACAO": {
+      "tipo": "leve_pague",
+      "leve": 8,
+      "pague": 6,
+      "max_por_cpf": 8,
+      "unidade_limite": "combos"
+    }
+  }
+]

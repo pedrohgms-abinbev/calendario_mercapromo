@@ -1,0 +1,39 @@
+RELATÓRIO DE TRATAMENTO — CALENDÁRIO MERCAPROMO
+Fonte de ofertas: /workspaces/calendario_mercapromo/data/unprocessed/Calendario Mercapromo.xlsx
+Fonte De/Para: /workspaces/calendario_mercapromo/cadastro/de_para_mercapromo.xlsx
+Mês de exibição: Novembro/2026
+Arquivo de ligação produto → SKU abreviado → imagem: /workspaces/calendario_mercapromo/data/processed/mapeamento_produtos_imagens.csv
+Somente ofertas cujas datas se cruzam com o mês selecionado são incluídas.
+Linhas ignoradas por produto vazio/cabeçalho: 1913
+Linhas ignoradas por datas vazias/inválidas: 0
+Linhas excluídas por estarem fora do mês: 0
+Cards após agrupamento de ofertas iguais por divisão: 75 | Mapeados: 75 | Sem mapeamento: 0
+
+Cards por categoria:
+- CERVEJA: 13
+- NAB: 6
+- MATCH: 7
+- PERSONALIZADO: 49
+
+Produtos sem mapeamento (até 100):
+- Nenhum.
+
+Avisos:
+- Aba CONFIG não existe em Calendario Mercapromo.xlsx; mês inferido pelas datas das ofertas.
+- Distribuição de datas por mês: Novembro 2026: 83 linha(s). Selecionado: Novembro/2026.
+- Alias '324988' associado a Promax diferentes (32498, 32500); a associação exata ambígua não será escolhida automaticamente.
+
+Regras aplicadas:
+- A fonte principal é Calendario Mercapromo.xlsx; são usadas CERVEJA, NAB, MATCH e PERSONALIZADO; PERSONALIZADO (2) é ignorada.
+- CERVEJA/NAB/MATCH: B divisão, C início, D fim, F produto, G mecânica, H tipo, I quantidade/percentual, J label de ativação, K valor de ativação, Q máximo de combos/CPF.
+- PERSONALIZADO: instrução na linha 1, cabeçalhos na linha 2 e dados desde a linha 3; A GEO, C varejista, D início, E fim, G produto, H mecânica, I label, J quantidade/percentual, K label, L valor, N máximo por cliente.
+- Não há preços nos cards: o destaque principal é a mecânica promocional.
+- CERVEJA/NAB/MATCH usam DIVISÃO como etiqueta de abrangência; não são criadas abas por UF.
+- Ofertas idênticas em várias DIVISÕES viram um card com as abrangências reunidas.
+- Variantes de mecânica no mesmo produto/período podem receber sinalizador de condição por divisão.
+- PERSONALIZADO é agrupado pela rede-base; sufixos de UF no nome da rede são convertidos em sinalizadores *DF e GO, etc.
+- Todas as ofertas NAB, inclusive Personalizado mapeado como NAB, têm limite de 1 por CPF em todas as quinzenas.
+- Todas as ofertas regulares MATCH têm limite de 4 combos por CPF nas duas quinzenas, inclusive no PERSONALIZADO classificado como MATCH pelo De/Para.
+- Oferta manual BEATS - FF: Leve 2 Beats / Ganhe 1 FF fica no topo de MATCH na 1ª quinzena, com limite especial de 3 combos por CPF; o gerador a replica no topo da 1ª quinzena de cada rede PERSONALIZADO.
+- O De/Para usa Nome para relacionar o nome comercial da promoção, SKU para o nome abreviado exibido e Nome IMG/Caminho para localizar a imagem. O relatório mapeamento_produtos_imagens.csv mostra a ligação por oferta.
+- As imagens físicas são localizadas pelo gerador HTML, usando Caminho, Nome IMG e SKU abreviado; relatorio_imagens.txt informa o caminho real localizado.

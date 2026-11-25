@@ -1,0 +1,10 @@
+{
+  "mes_atual": "Novembro",
+  "ano_atual": 2026,
+  "titulo": "CALENDÁRIO",
+  "logo": "logo.png",
+  "fonte_mecanicas": "/workspaces/calendario_mercapromo/data/unprocessed/Calendario Mercapromo.xlsx",
+  "fonte_de_para": "/workspaces/calendario_mercapromo/cadastro/de_para_mercapromo.xlsx",
+  "apenas_mes_vigente": true,
+  "sem_precos": true
+}

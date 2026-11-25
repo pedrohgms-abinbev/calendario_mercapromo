@@ -1,0 +1,399 @@
+====================================================================================================
+RELATÓRIO DE EXPLORAÇÃO - BLACK FRIDAY
+====================================================================================================
+
+Diretório do projeto: /workspaces/calendario_mercapromo
+Diretório de dados: /workspaces/calendario_mercapromo/data/unprocessed
+
+====================================================================================================
+ARQUIVOS BLACK FRIDAY ENCONTRADOS
+====================================================================================================
+  - Calendario Black Friday.xlsx
+
+####################################################################################################
+ARQUIVO BLACK FRIDAY
+####################################################################################################
+Arquivo: Calendario Black Friday.xlsx
+Caminho: /workspaces/calendario_mercapromo/data/unprocessed/Calendario Black Friday.xlsx
+
+Abas encontradas no arquivo:
+  - APTOS
+  - CERVEJA
+  - Sheet1
+  - NAB
+  - MATCH
+  - ESTRUTURA DADOS
+  - PERSONALIZADO
+  - PERSONALIZADO (2)
+  - BASE DE PRODUTOS
+
+Aba selecionada para exploração: CERVEJA
+
+==========================================================================================
+ABA: CERVEJA
+==========================================================================================
+Dimensão com conteúdo: 482 linhas x 72 colunas
+Dimensão registrada pelo Excel: 482 linhas x 72 colunas
+
+------------------------------------------------------------------------------------------
+AMOSTRA DAS PRIMEIRAS 20 LINHAS
+------------------------------------------------------------------------------------------
+Linha 1: A=GEO | B=DIVISÃO | C=INICIO | D=FIM | E=TIPO DE OFERTA | F=PRODUTO | G=MECÂNICA | H=CONFIGURAÇÃO DA PROMOÇÃO | R=STATUS DA PROMOÇÃO | S=OFERTA | T=FILTRO MECANICAS | V=Geo | W=UF | X=name | Y=product_name | Z=ean | AA=take | AB=pay | AC=max | AD=oferta_data_inicio | AE=oferta_data_fim | AF=data_aceite | AG=grupo_produtos | AH=tags | AJ=Geo | AK=UF | AL=name | AM=product_name | AN=ean | AO=preco_1 | AP=preco_2 | AQ=min | AR=max | AS=data_aceite | AT=oferta_data_inicio | AU=oferta_data_fim | AV=grupo_produtos | AW=tags | AY=proposal_id | AZ=id_external | BA=db_name | BB=name | BC=tags | BD=units | BE=unit_tags | BF=start_date | BG=end_date | BH=proposal_deadline | BI=label_pdv | BJ=product_name | BK=ean | BL=percentage_discount | BM=minimum_per_client | BN=maximum_per_client | BO=products_group | BQ=incluir cross | BS=maximum_per_client | BT=products_group
+Linha 2: A=Geo CO | B=MT | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Corona Cero LN 330ml | G=Leve e Pague | H=Leve: | I=6 | J=Pague: | K=4 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MT | X=Corona Cero LN 330ml - Leve 6 Pague 4 | Y=Corona Cero LN 330ml | Z=7891991304184 | AA=6 | AB=4 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 3: A=Geo CO | B=MT | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Corona LN 330ml | G=Leve e Pague | H=Leve: | I=6 | J=Pague: | K=4 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MT | X=Corona LN 330ml - Leve 6 Pague 4 | Y=Corona LN 330ml | Z=7891149108718 | AA=6 | AB=4 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 4: A=Geo CO | B=MT | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Stella Pure Gold LN 330ml | G=Leve e Pague | H=Leve: | I=6 | J=Pague: | K=4 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MT | X=Stella Pure Gold LN 330ml - Leve 6 Pague 4 | Y=Stella Pure Gold LN 330ml | Z=7891991304870 | AA=6 | AB=4 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 5: A=Geo CO | B=MT | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Michelob LT 269ml | G=Leve e Pague | H=Leve: | I=8 | J=Pague: | K=6 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MT | X=Michelob LT 269ml - Leve 8 Pague 6 | Y=Michelob LT 269ml | Z=GRUPO | AA=8 | AB=6 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AG=Sim | AH=calendario
+Linha 6: A=Geo CO | B=MT | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Original LT 269ml - Multipack 15un | G=Desconto % | H=Desconto: | I=0.15 | J=Min. Un. Ativação: | K=1 | L=Max. Un. CPF: | M=3 | R=Preenchimento Completo! | S=Original LT 269ml - Multipack 15un A PARTIR DE 1 UNIDADES GANHE 0,15% DE DESCONTO / Max. Un. CPF 3 | T=Desconto % | AZ=Geo CO | BA=MT | BC=calendario | BF=23/11/2026 | BG=29/11/2026 | BH=29/11/2026 | BI=Original LT 269ml - Multipack 15un | BJ=Original LT 269ml - Multipack 15un | BK=7891991307048 | BL=0.15 | BM=1 | BN=3
+Linha 7: A=Geo CO | B=MT | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Skol Pilsen LT 269ml - Multipack 15un | G=Desconto % | H=Desconto: | I=0.15 | J=Min. Un. Ativação: | K=1 | L=Max. Un. CPF: | M=3 | R=Preenchimento Completo! | S=Skol Pilsen LT 269ml - Multipack 15un A PARTIR DE 1 UNIDADES GANHE 0,15% DE DESCONTO / Max. Un. CPF 3 | T=Desconto % | AZ=Geo CO | BA=MT | BC=calendario | BF=23/11/2026 | BG=29/11/2026 | BH=29/11/2026 | BI=Skol Pilsen LT 269ml - Multipack 15un | BJ=Skol Pilsen LT 269ml - Multipack 15un | BK=7891149109043 | BL=0.15 | BM=1 | BN=3
+Linha 8: A=Geo CO | B=MS | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Corona Cero LN 330ml | G=Leve e Pague | H=Leve: | I=6 | J=Pague: | K=4 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MS | X=Corona Cero LN 330ml - Leve 6 Pague 4 | Y=Corona Cero LN 330ml | Z=7891991304184 | AA=6 | AB=4 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 9: A=Geo CO | B=MS | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Corona LN 330ml | G=Leve e Pague | H=Leve: | I=6 | J=Pague: | K=4 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MS | X=Corona LN 330ml - Leve 6 Pague 4 | Y=Corona LN 330ml | Z=7891149108718 | AA=6 | AB=4 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 10: A=Geo CO | B=MS | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Stella Pure Gold LN 330ml | G=Leve e Pague | H=Leve: | I=6 | J=Pague: | K=4 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MS | X=Stella Pure Gold LN 330ml - Leve 6 Pague 4 | Y=Stella Pure Gold LN 330ml | Z=7891991304870 | AA=6 | AB=4 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 11: A=Geo CO | B=MS | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Michelob LT 269ml | G=Leve e Pague | H=Leve: | I=8 | J=Pague: | K=6 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento Por:(Preço 2) | V=Geo CO | W=MS | X=Michelob LT 269ml - Leve 8 Pague 6 | Y=Michelob LT 269ml | Z=GRUPO | AA=8 | AB=6 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AG=Sim | AH=calendario
+Linha 12: A=Geo CO | B=MS | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Michelob LN 330ml | G=Leve e Pague | H=Leve: | I=6 | J=Pague: | K=4 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=MS | X=Michelob LN 330ml - Leve 6 Pague 4 | Y=Michelob LN 330ml | Z=7891991299619 | AA=6 | AB=4 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 13: A=Geo CO | B=MS | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Original LT 269ml | G=Leve e Pague | H=Leve: | I=15 | J=Pague: | K=12 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=MS | X=Original LT 269ml - Leve 15 Pague 12 | Y=Original LT 269ml | Z=7891991295086 | AA=15 | AB=12 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 14: A=Geo CO | B=MS | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Skol Pilsen LT 269ml | G=Leve e Pague | H=Leve: | I=15 | J=Pague: | K=12 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=3 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=MS | X=Skol Pilsen LT 269ml - Leve 15 Pague 12 | Y=Skol Pilsen LT 269ml | Z=7891149103102 | AA=15 | AB=12 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 15: A=Geo CO | B=Supercei | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Brahma Chopp LT 269ml | G=Leve e Pague | H=Leve: | I=15 | J=Pague: | K=12 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=Supercei | X=Brahma Chopp LT 269ml - Leve 15 Pague 12 | Y=Brahma Chopp LT 269ml | Z=7891149103270 | AA=15 | AB=12 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 16: A=Geo CO | B=Supercei | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Michelob LT 350ml | G=Leve e Pague | H=Leve: | I=8 | J=Pague: | K=6 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=Supercei | X=Michelob LT 350ml - Leve 8 Pague 6 | Y=Michelob LT 350ml | Z=7891991302029 | AA=8 | AB=6 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 17: A=Geo CO | B=Supercei | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Stella Pure Gold LT 350ml | G=Leve e Pague | H=Leve: | I=8 | J=Pague: | K=5 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=Supercei | X=Stella Pure Gold LT 350ml - Leve 8 Pague 5 | Y=Stella Pure Gold LT 350ml | Z=7891991306485 | AA=8 | AB=5 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 18: A=Geo CO | B=Supercei | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Antarctica Pilsen LT 269ml | G=Leve e Pague | H=Leve: | I=15 | J=Pague: | K=12 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=Supercei | X=Antarctica Pilsen LT 269ml - Leve 15 Pague 12 | Y=Antarctica Pilsen LT 269ml | Z=7891991010061 | AA=15 | AB=12 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 19: A=Geo CO | B=Comper DF/GO | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Antarctica Pilsen LT 269ml | G=Leve e Pague | H=Leve: | I=15 | J=Pague: | K=12 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=Comper DF/GO | X=Antarctica Pilsen LT 269ml - Leve 15 Pague 12 | Y=Antarctica Pilsen LT 269ml | Z=7891991010061 | AA=15 | AB=12 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+Linha 20: A=Geo CO | B=Comper DF/GO | C=23/11/2026 | D=29/11/2026 | E=PRODUTO_ÚNICO | F=Brahma Chopp LT 269ml | G=Leve e Pague | H=Leve: | I=15 | J=Pague: | K=12 | L=De: (Preço 1) | N=Por: (Preço 2) | P=Max. Combos CPF: | Q=8 | R=Falta preenchimento De: (Preço 1) | V=Geo CO | W=Comper DF/GO | X=Brahma Chopp LT 269ml - Leve 15 Pague 12 | Y=Brahma Chopp LT 269ml | Z=7891149103270 | AA=15 | AB=12 | AD=23/11/2026 | AE=29/11/2026 | AF=29/11/2026 | AH=calendario
+
+------------------------------------------------------------------------------------------
+ANÁLISE DAS COLUNAS
+------------------------------------------------------------------------------------------
+
+Coluna A | Linha 1: GEO
+  Valores preenchidos: 34
+  Exemplos: GEO | Geo CO
+
+Coluna B | Linha 1: DIVISÃO
+  Valores preenchidos: 34
+  Exemplos: DIVISÃO | MT | MS | Supercei | Comper DF/GO
+
+Coluna C | Linha 1: INICIO
+  Valores preenchidos: 34
+  Exemplos: INICIO | 23/11/2026
+
+Coluna D | Linha 1: FIM
+  Valores preenchidos: 34
+  Exemplos: FIM | 29/11/2026
+
+Coluna E | Linha 1: TIPO DE OFERTA
+  Valores preenchidos: 34
+  Exemplos: TIPO DE OFERTA | PRODUTO_ÚNICO
+
+Coluna F | Linha 1: PRODUTO
+  Valores preenchidos: 34
+  Exemplos: PRODUTO | Corona Cero LN 330ml | Corona LN 330ml | Stella Pure Gold LN 330ml | Michelob LT 269ml
+
+Coluna G | Linha 1: MECÂNICA
+  Valores preenchidos: 34
+  Exemplos: MECÂNICA | Leve e Pague | Desconto %
+
+Coluna H | Linha 1: CONFIGURAÇÃO DA PROMOÇÃO
+  Valores preenchidos: 34
+  Exemplos: CONFIGURAÇÃO DA PROMOÇÃO | Leve: | Desconto:
+
+Coluna I | Sem cabeçalho na linha 1
+  Valores preenchidos: 33
+  Exemplos: 6 | 8 | 0.15 | 15
+
+Coluna J | Sem cabeçalho na linha 1
+  Valores preenchidos: 33
+  Exemplos: Pague: | Min. Un. Ativação:
+
+Coluna K | Sem cabeçalho na linha 1
+  Valores preenchidos: 33
+  Exemplos: 4 | 6 | 1 | 12 | 5
+
+Coluna L | Sem cabeçalho na linha 1
+  Valores preenchidos: 33
+  Exemplos: De: (Preço 1) | Max. Un. CPF:
+
+Coluna M | Sem cabeçalho na linha 1
+  Valores preenchidos: 2
+  Exemplos: 3
+
+Coluna N | Sem cabeçalho na linha 1
+  Valores preenchidos: 31
+  Exemplos: Por: (Preço 2)
+
+Coluna P | Sem cabeçalho na linha 1
+  Valores preenchidos: 31
+  Exemplos: Max. Combos CPF:
+
+Coluna Q | Sem cabeçalho na linha 1
+  Valores preenchidos: 31
+  Exemplos: 8 | 3
+
+Coluna R | Linha 1: STATUS DA PROMOÇÃO
+  Valores preenchidos: 482
+  Exemplos: STATUS DA PROMOÇÃO | Falta preenchimento Por:(Preço 2) | Preenchimento Completo! | Falta preenchimento De: (Preço 1) | Aguardando Preenchimento!
+
+Coluna S | Linha 1: OFERTA
+  Valores preenchidos: 3
+  Exemplos: OFERTA | Original LT 269ml - Multipack 15un A PARTIR DE 1 UNIDADES GANHE 0,15% DE DESCONTO / Max. Un. CPF 3 | Skol Pilsen LT 269ml - Multipack 15un A PARTIR DE 1 UNIDADES GANHE 0,15% DE DESCONTO / Max. Un. CPF 3
+
+Coluna T | Linha 1: FILTRO MECANICAS
+  Valores preenchidos: 3
+  Exemplos: FILTRO MECANICAS | Desconto %
+
+Coluna V | Linha 1: Geo
+  Valores preenchidos: 32
+  Exemplos: Geo | Geo CO
+
+Coluna W | Linha 1: UF
+  Valores preenchidos: 32
+  Exemplos: UF | MT | MS | Supercei | Comper DF/GO
+
+Coluna X | Linha 1: name
+  Valores preenchidos: 32
+  Exemplos: name | Corona Cero LN 330ml - Leve 6 Pague 4 | Corona LN 330ml - Leve 6 Pague 4 | Stella Pure Gold LN 330ml - Leve 6 Pague 4 | Michelob LT 269ml - Leve 8 Pague 6
+
+Coluna Y | Linha 1: product_name
+  Valores preenchidos: 32
+  Exemplos: product_name | Corona Cero LN 330ml | Corona LN 330ml | Stella Pure Gold LN 330ml | Michelob LT 269ml
+
+Coluna Z | Linha 1: ean
+  Valores preenchidos: 32
+  Exemplos: ean | 7891991304184 | 7891149108718 | 7891991304870 | GRUPO
+
+Coluna AA | Linha 1: take
+  Valores preenchidos: 32
+  Exemplos: take | 6 | 8 | 15
+
+Coluna AB | Linha 1: pay
+  Valores preenchidos: 32
+  Exemplos: pay | 4 | 6 | 12 | 5
+
+Coluna AC | Linha 1: max
+  Valores preenchidos: 1
+  Exemplos: max
+
+Coluna AD | Linha 1: oferta_data_inicio
+  Valores preenchidos: 32
+  Exemplos: oferta_data_inicio | 23/11/2026
+
+Coluna AE | Linha 1: oferta_data_fim
+  Valores preenchidos: 32
+  Exemplos: oferta_data_fim | 29/11/2026
+
+Coluna AF | Linha 1: data_aceite
+  Valores preenchidos: 33
+  Exemplos: data_aceite | 29/11/2026 | 00:00:00
+
+Coluna AG | Linha 1: grupo_produtos
+  Valores preenchidos: 3
+  Exemplos: grupo_produtos | Sim
+
+Coluna AH | Linha 1: tags
+  Valores preenchidos: 32
+  Exemplos: tags | calendario
+
+Coluna AJ | Linha 1: Geo
+  Valores preenchidos: 1
+  Exemplos: Geo
+
+Coluna AK | Linha 1: UF
+  Valores preenchidos: 1
+  Exemplos: UF
+
+Coluna AL | Linha 1: name
+  Valores preenchidos: 1
+  Exemplos: name
+
+Coluna AM | Linha 1: product_name
+  Valores preenchidos: 1
+  Exemplos: product_name
+
+Coluna AN | Linha 1: ean
+  Valores preenchidos: 1
+  Exemplos: ean
+
+Coluna AO | Linha 1: preco_1
+  Valores preenchidos: 1
+  Exemplos: preco_1
+
+Coluna AP | Linha 1: preco_2
+  Valores preenchidos: 1
+  Exemplos: preco_2
+
+Coluna AQ | Linha 1: min
+  Valores preenchidos: 1
+  Exemplos: min
+
+Coluna AR | Linha 1: max
+  Valores preenchidos: 1
+  Exemplos: max
+
+Coluna AS | Linha 1: data_aceite
+  Valores preenchidos: 1
+  Exemplos: data_aceite
+
+Coluna AT | Linha 1: oferta_data_inicio
+  Valores preenchidos: 1
+  Exemplos: oferta_data_inicio
+
+Coluna AU | Linha 1: oferta_data_fim
+  Valores preenchidos: 1
+  Exemplos: oferta_data_fim
+
+Coluna AV | Linha 1: grupo_produtos
+  Valores preenchidos: 1
+  Exemplos: grupo_produtos
+
+Coluna AW | Linha 1: tags
+  Valores preenchidos: 1
+  Exemplos: tags
+
+Coluna AY | Linha 1: proposal_id
+  Valores preenchidos: 1
+  Exemplos: proposal_id
+
+Coluna AZ | Linha 1: id_external
+  Valores preenchidos: 3
+  Exemplos: id_external | Geo CO
+
+Coluna BA | Linha 1: db_name
+  Valores preenchidos: 3
+  Exemplos: db_name | MT
+
+Coluna BB | Linha 1: name
+  Valores preenchidos: 1
+  Exemplos: name
+
+Coluna BC | Linha 1: tags
+  Valores preenchidos: 3
+  Exemplos: tags | calendario
+
+Coluna BD | Linha 1: units
+  Valores preenchidos: 1
+  Exemplos: units
+
+Coluna BE | Linha 1: unit_tags
+  Valores preenchidos: 1
+  Exemplos: unit_tags
+
+Coluna BF | Linha 1: start_date
+  Valores preenchidos: 3
+  Exemplos: start_date | 23/11/2026
+
+Coluna BG | Linha 1: end_date
+  Valores preenchidos: 3
+  Exemplos: end_date | 29/11/2026
+
+Coluna BH | Linha 1: proposal_deadline
+  Valores preenchidos: 3
+  Exemplos: proposal_deadline | 29/11/2026
+
+Coluna BI | Linha 1: label_pdv
+  Valores preenchidos: 3
+  Exemplos: label_pdv | Original LT 269ml - Multipack 15un | Skol Pilsen LT 269ml - Multipack 15un
+
+Coluna BJ | Linha 1: product_name
+  Valores preenchidos: 3
+  Exemplos: product_name | Original LT 269ml - Multipack 15un | Skol Pilsen LT 269ml - Multipack 15un
+
+Coluna BK | Linha 1: ean
+  Valores preenchidos: 3
+  Exemplos: ean | 7891991307048 | 7891149109043
+
+Coluna BL | Linha 1: percentage_discount
+  Valores preenchidos: 3
+  Exemplos: percentage_discount | 0.15
+
+Coluna BM | Linha 1: minimum_per_client
+  Valores preenchidos: 3
+  Exemplos: minimum_per_client | 1
+
+Coluna BN | Linha 1: maximum_per_client
+  Valores preenchidos: 3
+  Exemplos: maximum_per_client | 3
+
+Coluna BO | Linha 1: products_group
+  Valores preenchidos: 1
+  Exemplos: products_group
+
+Coluna BQ | Linha 1: incluir cross
+  Valores preenchidos: 1
+  Exemplos: incluir cross
+
+Coluna BS | Linha 1: maximum_per_client
+  Valores preenchidos: 1
+  Exemplos: maximum_per_client
+
+Coluna BT | Linha 1: products_group
+  Valores preenchidos: 1
+  Exemplos: products_group
+
+####################################################################################################
+ARQUIVO DE/PARA
+####################################################################################################
+Arquivo: de_para_mercapromo.xlsx
+Caminho: /workspaces/calendario_mercapromo/cadastro/de_para_mercapromo.xlsx
+
+Abas encontradas no De/Para:
+  - Sheet1
+
+==========================================================================================
+ABA: Sheet1
+==========================================================================================
+Dimensão com conteúdo: 57 linhas x 7 colunas
+Dimensão registrada pelo Excel: 57 linhas x 7 colunas
+
+------------------------------------------------------------------------------------------
+AMOSTRA DAS PRIMEIRAS 20 LINHAS
+------------------------------------------------------------------------------------------
+Linha 1: A=Tipo | B=Promax | C=EG | D=SKU | E=Nome IMG | F=Caminho | G=Nome
+Linha 2: A=CERV | B=9224 | C=92247 | D=AP 269 | E=AP269 | F=AP269.png | G=ANTARCTICA PILSEN LT 269ML SH TRANSP C/15 NPAL
+Linha 3: A=CERV | B=18858 | C=188581 | D=AP 269 MP | E=AP269MP | F=AP269MP.png | G=ANTARCTICA PILSEN LT 269ML SH C/15 MULTPACK 15
+Linha 4: A=CERV | B=9067 | C=90670 | D=AP 350 | E=AP350 | F=AP350.png | G=ANTARCTICA PILSEN LATA 350ML SH C/12 NPAL
+Linha 5: A=NAB | B=2357 | C=23572 | D=BARE P2 | E=BAREP2 | F=BAREP2.png | G=BARE GUARANA PET 2L CAIXA C/6
+Linha 6: A=CERV | B=12948 | C=129486 | D=BC 0 350 | E=BC0350 | F=BC0350.png | G=BRAHMA CHOPP ZERO LATA 350ML SH C/12 NPAL
+Linha 7: A=CERV | B=1898 | C=18986 | D=BC 269 | E=BC269 | F=BC269.png | G=BRAHMA CHOPP LT 269ML SH C15 NPAL
+Linha 8: A=CERV | B=18860 | C=188607 | D=BC 269 MP | E=BC269MP | F=BC269MP.png | G=BRAHMA CHOPP LT 269ML SH C/15 MULTPACK 15
+Linha 9: A=CERV | B=9069 | C=90696 | D=BC 350 | E=BC350 | F=BC350.png | G=BRAHMA CHOPP LATA 350ML SH C/12 NPAL
+Linha 10: A=MATCH | B=- | C=- | D=BEATS LN | E=BEATSLN | F=BEATSLN.png | G=BEATS LONGNECK
+Linha 11: A=MATCH | B=- | C=- | D=BEATS LT | E=BEATSLT | F=BEATSLT.png | G=BEATS LATA
+Linha 12: A=CERV | B=31064 | C=310649 | D=BUD 269 | E=BUD269 | F=BUD269.png | G=BUDWEISER LT 269ML SH C 15
+Linha 13: A=CERV | B=34137 | C=341370 | D=BUD 269 MP | E=BUD269MP | F=BUD269MP.png | G=BUDWEISER LT 269ML SH C 15 MULTPACK
+Linha 14: A=CERV | B=21020 | C=210203 | D=BUD 350 | E=BUD350 | F=BUD350.png | G=BUDWEISER LT SLEEK 350ML CX CART C 12
+Linha 15: A=CERV | B=17808 | C=178087 | D=BUD LN | E=BUDLN | F=BUDLN.png | G=BUDWEISER OW 330ML CX C/24
+Linha 16: A=CERV | B=22177 | C=221770 | D=BUD 0 350 | E=BUDZERO350 | F=BUDZERO350.png | G=BUDWEISER ZERO LT SLEEK 350ML C 8 CX CARTAO
+Linha 17: A=CERV | B=22180 | C=221804 | D=BUD 0 LN | E=BUDZEROLN | F=BUDZEROLN.png | G=BUDWEISER ZERO LONG NECK 330ML SIX-PACK SHRINK C/4
+Linha 18: A=CERV | B=32392 | C=323923 | D=COR 269 | E=COR269 | F=COR269.png | G=CORONA EXTRA N LT 269ML CX CARTAO C/8 NPAL
+Linha 19: A=CERV | B=20651 | C=206516 | D=COR 350 | E=COR350 | F=COR350.png | G=CORONA EXTRA N LT SLEEK 350ML C 8 CX CARTAO
+Linha 20: A=CERV | B=34263 | C=342634 | D=COR 0 350 | E=CORCERO350 | F=CORCERO350.png | G=Corona Cero LT 350ml
+
+------------------------------------------------------------------------------------------
+ANÁLISE DAS COLUNAS
+------------------------------------------------------------------------------------------
+
+Coluna A | Linha 1: Tipo
+  Valores preenchidos: 57
+  Exemplos: Tipo | CERV | NAB | MATCH
+
+Coluna B | Linha 1: Promax
+  Valores preenchidos: 57
+  Exemplos: Promax | 9224 | 18858 | 9067 | 2357
+
+Coluna C | Linha 1: EG
+  Valores preenchidos: 57
+  Exemplos: EG | 92247 | 188581 | 90670 | 23572
+
+Coluna D | Linha 1: SKU
+  Valores preenchidos: 57
+  Exemplos: SKU | AP 269 | AP 269 MP | AP 350 | BARE P2
+
+Coluna E | Linha 1: Nome IMG
+  Valores preenchidos: 57
+  Exemplos: Nome IMG | AP269 | AP269MP | AP350 | BAREP2
+
+Coluna F | Linha 1: Caminho
+  Valores preenchidos: 57
+  Exemplos: Caminho | AP269.png | AP269MP.png | AP350.png | BAREP2.png
+
+Coluna G | Linha 1: Nome
+  Valores preenchidos: 57
+  Exemplos: Nome | ANTARCTICA PILSEN LT 269ML SH TRANSP C/15 NPAL | ANTARCTICA PILSEN LT 269ML SH C/15 MULTPACK 15 | ANTARCTICA PILSEN LATA 350ML SH C/12 NPAL | BARE GUARANA PET 2L CAIXA C/6
